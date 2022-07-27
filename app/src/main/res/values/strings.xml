@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">JetpackGlanceApp</string>
+	<string name="glance_widget">Glance LazyColumn Widget</string>
+</resources>
